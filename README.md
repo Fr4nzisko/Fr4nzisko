@@ -20,7 +20,7 @@
 <h3> Student Cybersecurity Engineer in UMayor  | Cybersecurity Technician | Pentester Red Team | HTB Player </h3>
       <h4>My Hack The Box Profile</h4>
   <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/174531">
-<img width="30%" src="https://user-images.githubusercontent.com/59784204/152609388-fb41bdc8-ea65-4ea5-a47f-7782bbf30f03.png" alt="Hack The Box Profile"></a>
+<img width="650%" src="https://user-images.githubusercontent.com/59784204/152609388-fb41bdc8-ea65-4ea5-a47f-7782bbf30f03.png" alt="Hack The Box Profile"></a>
 </div>
 </br>
 
