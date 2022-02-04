@@ -13,7 +13,7 @@
     <img alt="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FFFFFF&logo=youtube&logoColor=FF0000" align="center" />
   </a>
   <a href="mailto:josefloresf@protonmail.com">
-    <img alt="Linkedin" width="4%" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg"
+    <img alt="Linkedin" width="7%" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg"
      align="center" />
   </a>
  <br/><br/>
