@@ -120,7 +120,7 @@
 - NSE 2 Network Security Associate
 
 <div align="center">
-<img width="15%" src="https://user-images.githubusercontent.com/59784204/152628757-24419ccd-9ee9-49bc-bff1-599651875462.png"/>
+<img width="28%" src="https://user-images.githubusercontent.com/59784204/152628757-24419ccd-9ee9-49bc-bff1-599651875462.png"/>
 </div>
 
 
