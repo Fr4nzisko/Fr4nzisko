@@ -1,126 +1,21 @@
-<div align="center">
-  <h1> Hello I'm Fr4nzisko </h1>
-</div>
-
-<div align ="center">
-  <a href="https://github.com/Fr4nzisko">
-    <img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" align="center" />
-  </a>
-  <a href="https://www.linkedin.com/in/jose-francisco-flores-/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" align="center" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCVTz_tRuB8kYf9FJ0db201A/videos">
-    <img alt="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FFFFFF&logo=youtube&logoColor=FF0000" align="center" />
-  </a>
-  <a href="mailto:josefloresf@protonmail.com">
-    <img alt="Linkedin" width="7%" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg"
-     align="center" />
-  </a>
- <br/><br/>
-<h3> Student Cybersecurity Engineer in UMayor  | Cybersecurity Technician | Pentester Red Team | HTB Player </h3>
-      <h4>My Hack The Box Profile</h4>
-  <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/174531">
-<img width="650%" src="https://user-images.githubusercontent.com/59784204/152609388-fb41bdc8-ea65-4ea5-a47f-7782bbf30f03.png" alt="Hack The Box Profile"></a>
-</div>
-</br>
-
-- Learning CyberSecurity (Pentesting) on (HackTheBox)
-
-<p>
-  <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
-</p>
+# 💫 About Me:
+Cybersecurity Engineer | Certified Professional Penetration Tester | Ethical Hacker | eCPPT | eWPT | eJPT | CVSS | CAP
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jose-francisco-flores-/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Fr4nzisko1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCVTz_tRuB8kYf9FJ0db201A/videos) 
 
-<p>
-  <div align ="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Fr4nzisko&show_icons=true&theme=radical>" />
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fr4nzisko&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fr4nzisko&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr4nzisko&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fr4nzisko&langs_count=8" />
-</p>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Fr4nzisko&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Fr4nzisko&icon=0&color=8)](https://visitcount.itsvg.in)
 
-
-<div align="center">
-  <h1> Certificates of Courses</h1>
-</div>
-
-
-<h2>CISCO Networking Academy</h2>
-
-
-- CCNA Routing and Switching: Introduction to Networks
-- CCNA Routing and Switching: Basic principles of routing and switching
-- CCNA Routing and Switching: Scaling Networks
-- CCNA Routing and Switching Connecting Networks
-- CCNA Security
-- NDG Linux Unhatched
-- Introduction To Cybersecurity
-- Cybersecurity Essentials
-
-<div align="center">
-<img width="15%" src="https://user-images.githubusercontent.com/59784204/152627628-7fa32c89-848b-42f0-ba3f-571592bafd8f.png"/>
-</div>
-
-
-
-<h2>Udemy</h2>
-
-- Linux Fundamentals for IT Professionals
-
-<div align="center">
-<img width="15%" src="https://user-images.githubusercontent.com/59784204/152627838-9591762c-28fe-4cd4-bda8-76f4f8ca01ab.png"/>
-</div>
-
-
-<h2> Capacitación USACH</h2>
-
-- Introduction to Cloud Architectures
-- Introduction to Cryptography
-- Introduction to Cybersecurity Standards
-- Digital Tools for Cybersecurity
-
-<div align="center">
-<img width="15%" src="https://user-images.githubusercontent.com/59784204/152627400-992f7f6e-cf70-4fde-a559-c221adf15700.jpeg"/>
-</div>
-
-
-<h2> Universidad Mayor in conjunction with Universidad Libre Seccional Cali-Colombia </h2>
-
-- Programming Essentials In Python
-
-<div align="center"> 
-<img align="center" width="15%" src="https://user-images.githubusercontent.com/59784204/152627530-dd97287d-f9d3-4675-b132-71d38796a00e.png"/>
-
-<img align="center" width="15%" src="https://user-images.githubusercontent.com/59784204/152628418-53bc1dba-5b7e-4521-926a-5c34428ba462.png"/>
-</div>
-
-
-
-<h2> CyberAcademy | Capabilia | Deloitte</h2>
-
-- Getting to know Python
-- Information Gathering and Extraction with Python
-- Web Scraping with Python
-
-<div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/59784204/152628670-ae27cacc-1d67-439b-af19-e09c795846d7.png"/>
-</div>
-
-
-
-<h2> Fortinet</h2>
-
-- NSE 1 Network Security Associate
-- NSE 2 Network Security Associate
-
-<div align="center">
-<img width="28%" src="https://user-images.githubusercontent.com/59784204/152628757-24419ccd-9ee9-49bc-bff1-599651875462.png"/>
-</div>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
