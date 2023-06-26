@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity Engineer | Certified Professional Penetration Tester | Ethical Hacker | eCPPT | eWPT | eJPT | CVSS | CAP
+Cybersecurity Engineer | Certified Professional Penetration Tester | Ethical Hacker | eWPTXv2 | eWPT | eCPPT | eJPT | CVSS | CAP | CCSP-AWS | API Security
 
 
 ## 🌐 Socials:
