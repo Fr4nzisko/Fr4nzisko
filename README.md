@@ -1,6 +1,5 @@
 # 💫 About Me:
-Cybersecurity Engineer | Certified Professional Penetration Tester | Ethical Hacker | eWPTXv2 | eWPT | eCPPT | eJPT | CVSS | CAP | CCSP-AWS | API Security
-
+Senior Cybersecurity Engineer | Certified Professional Penetration Tester | Ethical Hacker | eWPTXv2 | CRTP | CMPen | DANTE | eCPPT | eWPT | ISO 27001:2022 Lead Auditor | CEH Practical | eJPT | CAP | CCSP-AWS | API Security
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-francisco-flores-) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Fr4nzisko1) 
