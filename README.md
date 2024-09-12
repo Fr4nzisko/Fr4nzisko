@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Cybersecurity Engineer | Ethical Hacker | CPTS | CBBH | CRTE | CRTP | eWPTXv2 | CMPen | eMAPT | DANTE (HTB) | eCPPT | eWPT | ISO 27001:2022 Lead Auditor | CEH Practical | eJPT | CAP | CCSP-AWS | Certified API Security Analyst (CASA)
+Senior Cybersecurity Engineer | Ethical Hacker | CPTS | CBBH | CRTE | CRTP | eWPTXv2 | CMPen | eMAPT | DANTE (HTB) | ZEPHYR (HTB) | eCPPT | eWPT | ISO 27001:2022 Lead Auditor | CEH Practical | eJPT | CAP | CCSP-AWS | Certified API Security Analyst (CASA)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-francisco-flores-) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Fr4nzisko1) 
