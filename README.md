@@ -17,28 +17,6 @@ Senior **Cybersecurity Engineer** based in 🇨🇦 Canada, specializing in **of
 
 ---
 
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Issuer | Domain |
-|---|---|---|
-| **CRTL** | Zero Point Security | Red Team Lead |
-| **CRTO** | Zero Point Security | Red Team Operations |
-| **CRTE** | Altered Security | Red Team Expert (Active Directory) |
-| **CRTP** | Altered Security | Red Team Professional (Active Directory) |
-| **CPTS** | HackTheBox | Penetration Testing Specialist |
-| **CBBH** | HackTheBox | Bug Bounty Hunter |
-| **eWPTXv2** | INE Security | Web App Pentesting eXtreme |
-| **eMAPT** | INE Security | Mobile App Penetration Testing |
-| **eCPPT** | INE Security | Certified Professional Pentester |
-| **CMPen** | INE Security | Mobile Penetration Testing |
-| **ISO 27001:2022** | — | Lead Auditor |
-
-</div>
-
----
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-francisco-flores-)
@@ -175,4 +153,27 @@ Senior **Cybersecurity Engineer** based in 🇨🇦 Canada, specializing in **of
 ![](https://github-contributor-stats.vercel.app/api?username=Fr4nzisko&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Domain |
+|---|---|---|
+| **CRTL** | Zero Point Security | Red Team Lead |
+| **CRTO** | Zero Point Security | Red Team Operations |
+| **CRTE** | Altered Security | Red Team Expert (Active Directory) |
+| **CRTP** | Altered Security | Red Team Professional (Active Directory) |
+| **CPTS** | HackTheBox | Penetration Testing Specialist |
+| **CBBH** | HackTheBox | Bug Bounty Hunter |
+| **eWPTXv2** | INE Security | Web App Pentesting eXtreme |
+| **eMAPT** | INE Security | Mobile App Penetration Testing |
+| **eCPPT** | INE Security | Certified Professional Pentester |
+| **CMPen** | INE Security | Mobile Penetration Testing |
+| **ISO 27001:2022** | — | Lead Auditor |
+
+</div>
+
 
