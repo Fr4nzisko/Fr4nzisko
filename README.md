@@ -14,6 +14,27 @@ Senior **Cybersecurity Engineer** based in 🇨🇦 Canada, specializing in **of
 - 🐛 **Bug Bounty** Web & API security, OWASP Top 10, business logic flaws
 - 🏛️ **Compliance** ISO 27001:2022 Lead Auditor, enterprise risk management
 - 💼 **Financial sector focus** Risk prevention & enterprise security consulting
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Domain |
+|---|---|---|
+| **CRTL** | Zero Point Security | Red Team Lead |
+| **CRTO** | Zero Point Security | Red Team Operations |
+| **CRTE** | Altered Security | Red Team Expert (Active Directory) |
+| **CRTP** | Altered Security | Red Team Professional (Active Directory) |
+| **CPTS** | HackTheBox | Penetration Testing Specialist |
+| **CBBH** | HackTheBox | Bug Bounty Hunter |
+| **eWPTXv2** | INE Security | Web App Pentesting eXtreme |
+| **eMAPT** | INE Security | Mobile App Penetration Testing |
+| **eCPPT** | INE Security | Certified Professional Pentester |
+| **CMPen** | INE Security | Mobile Penetration Testing |
+| **ISO 27001:2022** | — | Lead Auditor |
+
+</div>
 
 ---
 
@@ -154,26 +175,5 @@ Senior **Cybersecurity Engineer** based in 🇨🇦 Canada, specializing in **of
 
 </div>
 
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Issuer | Domain |
-|---|---|---|
-| **CRTL** | Zero Point Security | Red Team Lead |
-| **CRTO** | Zero Point Security | Red Team Operations |
-| **CRTE** | Altered Security | Red Team Expert (Active Directory) |
-| **CRTP** | Altered Security | Red Team Professional (Active Directory) |
-| **CPTS** | HackTheBox | Penetration Testing Specialist |
-| **CBBH** | HackTheBox | Bug Bounty Hunter |
-| **eWPTXv2** | INE Security | Web App Pentesting eXtreme |
-| **eMAPT** | INE Security | Mobile App Penetration Testing |
-| **eCPPT** | INE Security | Certified Professional Pentester |
-| **CMPen** | INE Security | Mobile Penetration Testing |
-| **ISO 27001:2022** | — | Lead Auditor |
-
-</div>
 
 
